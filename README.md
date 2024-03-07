@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-columns-using-css-grid-oWW-sKUqrI)
+- Live Site URL: (https://aallam0.github.io/3-Columns-Component)
 
 ### Useful resources
 
