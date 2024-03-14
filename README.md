@@ -1,4 +1,4 @@
-# Frontend Mentor - Page name
+# Frontend Mentor - Three Columns Component Page
 
 ![](./images/3-column-layout.png)
 
